@@ -20,7 +20,7 @@ Un excelente libro para aprender SQL que explica y desarrolla los temas más imp
 * Utilizar linea de comandos psql
 * Identificar la historia detras de los datos
 
-## [Practical-sql.com](https://www.sql-practice.com/)
+## [Sql-practice.com](https://www.sql-practice.com/)
 
 Es una excelente página para poner en prueba las habilidades básicas, medias y avanzadas de SQL. 
 En este repositorio se incluyen las soluciones obtenidas para sus retos.
